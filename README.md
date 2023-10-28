@@ -56,6 +56,7 @@ Run the installer and follow the instructions (make sure to check the “Add Pyt
 > Running the Script:
 `Open CMD.`
 >Go to the folder with keylogger.py: `cd path_to_folder`
+
 Run the script: `python keylogger.py`
     
     
