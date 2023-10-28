@@ -22,6 +22,10 @@ Otwórz terminal.
 > Zainstaluj Python: `sudo apt install python3`
 Uruchomienie skryptu:
 Przejdź do folderu z keylogger.py: `cd ścieżka_do_folderu`
+Następnie wpisz:
+`pip install pynput`
+lub
+`pip3 install pynput`
 > Uruchom skrypt: `python3 keylogger.py`
 
 
@@ -35,6 +39,10 @@ Open the terminal.
 >Install Python: `sudo apt install python3`
 Running the Script:
 >Go to the folder with keylogger.py: `cd path_to_folder`
+Then type:
+`pip install pynput`.
+or
+`pip3 install pynput`.
 Run the script: `python3 keylogger.py`
 
 ### On Windows
@@ -46,6 +54,12 @@ Uruchom instalator i postępuj zgodnie z instrukcjami (upewnij się, że zaznacz
 >Uruchomienie skryptu:
 `Otwórz CMD.`
 >Przejdź do folderu z keylogger.py: `cd ścieżka_do_folderu`
+Następnie Wpisz:
+`pip install pynput`
+ lub, jeśli masz zainstalowane wiele wersji Pythona:
+`python -m pip install pynput`
+lub
+`python3 -m pip install pynput`
 Uruchom skrypt: `python keylogger.py`
 
 #### English:
@@ -56,8 +70,16 @@ Run the installer and follow the instructions (make sure to check the “Add Pyt
 > Running the Script:
 `Open CMD.`
 >Go to the folder with keylogger.py: `cd path_to_folder`
-
+Then Type:
+`pip install pynput`.
+ or, if you have multiple versions of Python installed:
+`python -m pip install pynput`.
+or
+`python3 -m pip install pynput`.
 Run the script: `python keylogger.py`
+
+
+
     
     
 ## Authors
